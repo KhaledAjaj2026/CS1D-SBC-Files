@@ -23,7 +23,7 @@ return 0;
 using namespace std;
 int hello1Function(string name1)
 {
-cout << "hello World " << name1 << endl;
+cout << "hello Universe " << name1 << endl;
 return 0;
 }
 
@@ -35,6 +35,6 @@ return 0;
 using namespace std;
 int hello2Function(string name2)
 {
-cout << "hello World " << name2 << endl;
+cout << "hello Universe " << name2 << endl;
 return 0;
 }
