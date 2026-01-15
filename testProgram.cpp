@@ -23,6 +23,12 @@ int main()
 */
 #include <iostream>
 using namespace std;
+/**
+ * @brief Print hello universe
+ * 
+ * @param name1 
+ * @return int 
+ */
 int hello1Function(string name1)
 {
     cout << "hello Universe " << name1 << endl;
@@ -36,6 +42,12 @@ int hello1Function(string name1)
 */
 #include <iostream>
 using namespace std;
+/**
+ * @brief Print hello universe
+ * 
+ * @param name2 
+ * @return int 
+ */
 int hello2Function(string name2)
 {
     cout << "hello Universe " << name2 << endl;
